@@ -1,0 +1,17 @@
+            add R1, R0, R0                # R1  -> ITERATOR        
+            addi R20, R0, 20              # R20 -> ITERATION LIMIT
+            lw R2, 1000(R1)               # R2  -> CURRENT DATA    
+            add R3, R0, R2                # R3  -> Max Data            
+            add R4, R0, R1                # R4  -> Max Index           
+LOOP_START: beq R1, R20, END_LOOP
+            lw R2, 1000(R1)  
+            slt R5, R2, R3
+            beq R5, R0, REGMAX
+            j LEAVE
+REGMAX:     add R3, R0, R2
+            add R4, R0, R1            
+LEAVE:      addi R1, R1, 1
+            j LOOP_START
+END_LOOP:   sw R3, 2000(R0)
+            addi R4, R4, 1000
+            sw R4, 2004(R0)

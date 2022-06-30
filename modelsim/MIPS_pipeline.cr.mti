@@ -1,0 +1,183 @@
+D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Mux4.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Mux4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4
+
+Top level modules:
+	Mux4
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/AluController.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/AluController.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AluController
+
+Top level modules:
+	AluController
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/SignExtendTB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/SignExtendTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SignExtendTB
+
+Top level modules:
+	SignExtendTB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/MipsTB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/MipsTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MipsTB
+
+Top level modules:
+	MipsTB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/MipsDatapath.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/MipsDatapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MipsDatapath
+
+Top level modules:
+	MipsDatapath
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/AluTB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/AluTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AluTB
+
+Top level modules:
+	AluTB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Adder.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Memory.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/RegisterSynch.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/RegisterSynch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterSynch
+
+Top level modules:
+	RegisterSynch
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Mux2TB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Mux2TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2TB
+
+Top level modules:
+	Mux2TB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/HazardUnit.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/HazardUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HazardUnit
+
+Top level modules:
+	HazardUnit
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/ForwardingUnit.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/ForwardingUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/InstructionMemory.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/InstructionMemory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Register.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/RegisterFile.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/RegisterFile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/AdderTB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/AdderTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AdderTB
+
+Top level modules:
+	AdderTB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Compare.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Compare.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Compare
+
+Top level modules:
+	Compare
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/MemoryTB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/MemoryTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MemoryTB
+
+Top level modules:
+	MemoryTB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/InstructionMemoryTB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/InstructionMemoryTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemoryTB
+
+Top level modules:
+	InstructionMemoryTB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Mips.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Mips.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mips
+
+Top level modules:
+	Mips
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/SignExtend.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/SignExtend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Alu.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Alu
+
+Top level modules:
+	Alu
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/RegisterFileTB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/RegisterFileTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFileTB
+
+Top level modules:
+	RegisterFileTB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/RegisterTB.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/RegisterTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterTB
+
+Top level modules:
+	RegisterTB
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Mux2.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/Mux2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}} D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/MipsController.v {1 {vlog -work work -stats=none D:/University/term6/courses/ComputerArchitecture/CA/3/CA_CA3/modelsim/.build.uhdl/MipsController.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MipsController
+
+Top level modules:
+	MipsController
+
+} {} {}}
